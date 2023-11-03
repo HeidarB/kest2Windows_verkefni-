@@ -3,3 +3,4 @@ BIO = basic input output
 RAM = random accses memory 
 ROM = real only memory 
 PROM = programmable read-only memory
+CMOS = Complementary Metal Oxide Semiconductor
