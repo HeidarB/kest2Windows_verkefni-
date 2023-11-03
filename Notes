@@ -1,0 +1,5 @@
+POST = power on self test
+BIO = basic input output 
+RAM = random accses memory 
+ROM = real only memory 
+PROM = programmable read-only memory
