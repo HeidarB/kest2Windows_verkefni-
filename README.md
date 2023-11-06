@@ -1,5 +1,6 @@
 # kest2Windows_verkefni
 10.3.1.4:
+
 What options are available in the Driver tab?
 
   -The driver tab displays information concerning the driver and allows you to perform actions such as updating, reverting, deactivating, or removing a driver.
