@@ -31,4 +31,4 @@ What is the default installation location for Packet Tracer?
 
 Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
 
-  -Microsoft recommends using the "Uninstall or change a program" feature to remove an installed application
+  - Microsoft recommends using the "Uninstall or change a program" feature to remove an installed application
