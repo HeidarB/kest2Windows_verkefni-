@@ -78,3 +78,51 @@ When the volume was FAT32, there were three tabs. What is the name of the new ta
   Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
   
   - Security tab for fine-grained file permissions on NTFS volumes.
+
+11.1.2.10
+
+
+
+11.1.3.4
+
+What happened?
+
+  - The selected apilcation was completely closed even if it would have normally started working in the background
+
+What options are available?
+
+  - Expand, End task, PRovide feedback, Search online
+
+What statuses are listed?
+
+  - Stopped and Running
+
+What are the available actions that can be taken?
+
+  - stop, start, restart, open services
+
+What is the current utilization of the CPU?
+
+  - 1%
+
+What is the available physical memory (MB)?
+
+  - 14.1 GB
+
+How much physical memory (MB) is being used by the computer?
+
+  - 1.8 GB
+
+### note for the following questions the computer is not connected to any internet source so i will be using my own laptop for these examples
+
+What is the link speed? What type of Ethernet Adapter is in use on this computer?
+
+  - 56 Kbps, there is no sourt of ethernet adpater on the laptop
+
+What type of network connection (i.e Connection type) is in use?
+
+  - 802.11ac
+
+What is the IPv4 address of the PC?
+
+  - 10.11.45.117
