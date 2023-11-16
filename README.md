@@ -113,7 +113,7 @@ How much physical memory (MB) is being used by the computer?
 
   - 1.8 GB
 
-### note for the following questions the computer is not connected to any internet source so i will be using my own laptop for these examples
+### note for the following 3 questions the computer is not connected to any internet source so i will be using my own laptop for these examples
 
 What is the link speed? What type of Ethernet Adapter is in use on this computer?
 
@@ -126,3 +126,30 @@ What type of network connection (i.e Connection type) is in use?
 What is the IPv4 address of the PC?
 
   - 10.11.45.117
+
+What effect does this have on the columns?
+
+  - It rearranges the colunms from lowest usage to hightest instead of the default highest to lowest
+
+What affect does this have on the Memory column?
+
+  - it changes the display of usage from values to persentages
+
+How could this be useful?
+
+  - persentages are easier to read then values
+
+The listed processes are divided by categories. What categories are listed?
+
+  - Apps and background processes
+
+Right-click a username. What are the available options?
+
+  - Expand, Disconnect, Manage user accounts
+
+The Startup tab lists the processes that are started automatically during Windows startup. Click the
+Startup tab. Right-click a process and list the available options below.
+
+  - Disable, Open file location, search online, properties
+
+What type of information can you get from this list?
