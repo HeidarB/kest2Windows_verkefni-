@@ -153,3 +153,5 @@ Startup tab. Right-click a process and list the available options below.
   - Disable, Open file location, search online, properties
 
 What type of information can you get from this list?
+
+  - Resource usage since a certin date
