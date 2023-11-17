@@ -155,3 +155,12 @@ Startup tab. Right-click a process and list the available options below.
 What type of information can you get from this list?
 
   - Resource usage since a certin date
+
+The Details tab displays process information such as process ID (PID), status, and memory utilization.
+Right-click a process and list the available options below.
+
+  - End task, end process tree, set priority, set affinity
+
+Why is it important for an administrator to understand how to work within the Task Manager?
+
+  -Efficient troubleshooting, resource monitoring, and system optimization are facilitated, enhancing overall system performance and stability for an administrator.
