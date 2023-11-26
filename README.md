@@ -163,4 +163,58 @@ Right-click a process and list the available options below.
 
 Why is it important for an administrator to understand how to work within the Task Manager?
 
-  -Efficient troubleshooting, resource monitoring, and system optimization are facilitated, enhancing overall system performance and stability for an administrator.
+  - Efficient troubleshooting, resource monitoring, and system optimization are facilitated, enhancing overall system performance and stability for an administrator.
+
+11.1.4.11
+
+What happened with Folder1 and Folder2 on the Desktop?
+
+  - The new folders are displayed on the Desktop. After moving Folder2 into Folder1, only Folder1 on the Desktop.
+
+What is the file extension for the text document?
+
+  - The file extension is .txt.
+
+How would you do it?
+
+  -  Right-click the text document > click Copy > Open Folder2 > right-click Paste.
+
+What are the attributes associated with this file?
+
+  - A for Archive.
+
+What is the complete path to Folder3?
+ 
+  - Desktop > Folder 1 > Folder 2 > Folder 3
+
+In Windows 8.x and 10, which directories are listed under Folders?
+
+  - The folders are Desktop, Downloads, Documents, Pictures, Music, and Videos.
+
+What happened? Why would you want to do this?
+
+  - The folder is now listed under the headings Quick Access or Favorites. This provides a link to the folder and allows for quick access to a nested folder from File Explorer or Windows Explorer.
+
+What are folders listed in the Local Disk (C:)?
+
+  - The listed folders are PerfLogs, Program Files, Program Files (x86), Users, and Windows.
+
+Were you able to open it? Explain.
+
+  - Yes you have the permission to access folder owned by you.
+
+Were you able to open it? Explain. 
+
+  - If the user account has administrative privileges, you may be able to open the user folder of a standard user. A standard user cannot open the folder of administrative privileges without the credentials of the administrative user.
+
+Open the Public folder. List all the folders in the directory.
+
+  - Some of the folders in the directory are Public Documents, Public Downloads, Public Music, Public Pictures, and Public Videos.
+
+Which folders or files listed under the Libraries heading?
+
+  - Documents, Music, Pictures, and Videos.
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+
+  - Select the Folder1 library location and click Remove and then click OK.
