@@ -297,122 +297,204 @@ Which subcategory would you use to improve the computer’s ability to understan
 
   - Control Panel\Ease of Access\Speech Recognition
 
-## 11.2.2.3 Lab - User Accounts
-### What is the advantage of having most users work within a Standard user account?
-easier to separate and organize work and personal files, and to manage multiple projects or tasks
-### For this lab, select Delete Files. What are the other options? When would you choose the other options?
-Delete Files this is for if you want nothing that the acount was working on to stay
+11.2.2.3 Lab
+
+What is the advantage of having most users work within a Standard user account?
+
+  - easier to separate and organize work and personal files, and to manage multiple projects or tasks
+
+For this lab, select Delete Files. What are the other options? When would you choose the other options?
+
+  - Delete Files this is for if you want nothing that the acount was working on to stay
+
 keep Files this is for if you want to keep the thinks the acount was working on
-cancel this is to stop the proses and keep the acount
-### Why is it important to protect all accounts with strong passwords?
-so none that souldent be there cant get in
-### Why would you create a user with Standard privileges?
-so you can look over them and so they dont change anything they souldent
-### In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
-if the think they where working on where importent to the compani or team
 
-## 11.2.5.8 Lab - Manage Virtual Memory
-### What is the current size of the virtual memory (paging file)?
-1920 MB
-### What Drive [Volume Label] contains the paging file?
-driver C
-### What is the recommended paging file size for all drives?
-1979 MB
-### What Drive [Volume Label] contains the paging file?
-driver I
-### Why would you ever change the default virtual memory page file settings in Windows?
-if it is to small your computer will run slower
-### Browse through the menus displayed at the top of the Device Manager window. How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
-go to disk driver click the driver that is there and go to driver tab and click update driver
-### What additional information does Driver Details provide?
-Driver Provider
-Driver date
-Driver Version
-Digital signer
-### What two options do you have for updating the driver?
-search atomatically or browse my computer for software
-### What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
-if the divice fails after the driver instalsion. this is for if the driver is foulty you can go back to normal before you intaled the driver
-### What are the other available options?
-Driver Details
-Disable
-Uninstall
+  - cancel this is to stop the proses and keep the acount
 
-## 11.2.6.2 Lab - Use Device Manager
-### What information is listed in the Device Manager window? Why would you use it?
-it is all the things conected to the computer and everything in the computer. you would use this to see if something is conecting
+Why is it important to protect all accounts with strong passwords?
 
+  - so none that souldent be there cant get in
 
-## 11.3.1.11 Lab - Monitor and Manage System Resources - Sleppa Windows Defender hlutanum, byrja á Part 2 (print spooler)
-### Record a listed printer below
-Fax
-microsoft print to pdf
-microsoft XPS document writer
-### What message did you receive? How would you fix this?
-it says i cant print and i fix it by starting printer spooler again
-### When DHCP Client stops, what other services will also be stopped?
-The IP Helper service
-### Why is it important to exercise care when managing services?
-becouse it can be dangures if you turn some program off
-### What is the full path name to the example file name?
-C:\PerfLogs
+Why would you create a user with Standard privileges?
 
+  - so you can look over them and so they dont change anything they souldent
 
-## 11.3.2.7 Lab - System Utilities
-### What does the column farthest to the right show?
-Console Root/Management Tools
-### What is the background picture?
-just a basic windows picture
-### What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
-0/0/0
-### What is the data value of the Background?
-232/17/35
-### What is the data value of the Background?
-it is what you have in the notepad like i have it at 255 255 255
-### What is the color of the desktop?
-still red
-### What is the color of the desktop?
-white
-### Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
-you can create management consoles that include only the administrative tools that you need
-### After restarting the computer, why was the desktop color changed?
-becouse the background restars when the computer restars
+In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
 
-## 11.3.2.8 Lab - Manage System Files
-### BIOS Version/Date:
-P1.60
-### Total Physical Memory:
-7,68
-### DMA channels and the device using the resources.
-Direct memory acces controller
-### Adapter Description:
-intel(R) HD Graphics 4400
-### Adapter RAM:
-1,00gb (*buch of numbers* bytes)
-### Under the Software Environment heading, where would you find the applications that automatically load when the computer boots
-Startup program
-### What are the startup options?
-Normal startup
-diagonstic startup
-selective startup
-### Can you enable and disable services at this tab?
-you can enable or disable anyone you like
-### What can you do in this tab?
-you can start up basic tabs that are usfull like task manager and computer management and other thing that i am to sceart of launching
-### What does this tool report?
-basic hardwear and softwear on the computer
-### What information is listed on this page?
-version of the drivers and display mode and grahics card
-### Click Next Page until you are at the Sound tab
-more drivers and some other device i am not sure what is
-### What information is listed on this page?
-all the avalable outlets on this devise like usb
-### Why would it be beneficial to turn off a service in the system configuration?
-to see what your device has
-### When would you use the startup tab of the system configuration tool?
-if i wanna know anything about the drivers
+  - if the think they where working on where importent to the compani or team
 
-## 11.4.1.5 Lab - Work in the Windows Command Shell
+11.2.5.8 Lab - Manage Virtual Memory
+
+What is the current size of the virtual memory (paging file)?
+
+  - 1920 MB
+
+What Drive [Volume Label] contains the paging file?
+
+  - driver C
+
+What is the recommended paging file size for all drives?
+
+  - 1979 MB
+
+What Drive [Volume Label] contains the paging file?
+
+  - driver I
+
+Why would you ever change the default virtual memory page file settings in Windows?
+
+  - if it is to small your computer will run slower
+
+Browse through the menus displayed at the top of the Device Manager window. How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
+
+  - go to disk driver click the driver that is there and go to driver tab and click update driver
+
+What additional information does Driver Details provide?
+
+  - Driver Provider, Driver date, Driver Version and Digital signer
+
+What two options do you have for updating the driver?
+
+  - search atomatically or browse my computer for software
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer, why would it be grayed out?
+
+  - if the divice fails after the driver instalsion. this is for if the driver is foulty you can go back to normal before you intaled the driver
+
+What are the other available options?
+  
+  - Driver Details, Disable, Uninstall
+
+11.2.6.2 Lab
+
+What information is listed in the Device Manager window? Why would you use it?
+
+  - it is all the things conected to the computer and everything in the computer. you would use this to see if something is conecting
+
+11.3.1.11 Lab
+
+Record a listed printer below
+
+  -Fax, microsoft print to pdf, microsoft XPS document writer
+
+What message did you receive? How would you fix this?
+
+  - it says i cant print and i fix it by starting printer spooler again
+
+When DHCP Client stops, what other services will also be stopped?
+
+  - The IP Helper service
+
+Why is it important to exercise care when managing services?
+
+  - becouse it can be dangures if you turn some program off
+
+What is the full path name to the example file name?
+
+  - C:\PerfLogs
+
+11.3.2.7 Lab
+
+What does the column farthest to the right show?
+
+  - Console Root/Management Tools
+
+What is the background picture?
+
+  - just a basic windows picture
+
+What is the data value of the Background (hint – it has three numbers that correspond to red, green, and blue)?
+
+  - 0/0/0
+
+What is the data value of the Background?
+
+  - 232/17/35
+
+What is the data value of the Background?
+
+  - it is what you have in the notepad like i have it at 255 255 255
+
+What is the color of the desktop?
+
+  - still red
+
+What is the color of the desktop?
+
+  - white
+
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+
+  - you can create management consoles that include only the administrative tools that you need
+
+After restarting the computer, why was the desktop color changed?
+
+  - becouse the background restars when the computer restars
+
+11.3.2.8 Lab - Manage System Files
+
+BIOS Version/Date:
+
+  - P1.60
+
+Total Physical Memory:
+
+  - 7,68
+
+DMA channels and the device using the resources.
+  
+  - Direct memory acces controller
+
+Adapter Description:
+
+  - intel(R) HD Graphics 4400
+
+Adapter RAM:
+  
+  - 1,00gb (*buch of numbers* bytes)
+
+Under the Software Environment heading, where would you find the applications that automatically load when the computer boots
+
+  - Startup program
+
+What are the startup options?
+
+  - Normal startup, diagonstic startup, selective startup
+    
+Can you enable and disable services at this tab?
+
+  - you can enable or disable anyone you like
+
+What can you do in this tab?
+
+  - you can start up basic tabs that are usfull like task manager and computer management and other thing that i am to sceart of launching
+
+What does this tool report?
+
+  - basic hardwear and softwear on the computer
+
+What information is listed on this page?
+
+  - version of the drivers and display mode and grahics card
+
+Click Next Page until you are at the Sound tab
+
+  - more drivers and some other device i am not sure what is
+
+What information is listed on this page?
+
+  - all the avalable outlets on this devise like usb
+
+Why would it be beneficial to turn off a service in the system configuration?
+
+  - to see what your device has
+
+When would you use the startup tab of the system configuration tool?
+
+  - if i wanna know anything about the drivers
+
+11.4.1.5 Lab
+
 CD Specifies that you want to change to the parent directory
 CHKDSK Specifies the drive letter (followed by a colon)
 COPY Specifies the file or files to be copied
@@ -428,79 +510,136 @@ RD Remove or deletes Directorys
 ROBOCOPY copying large datasets or lots of files across volumes and is a great tool for backing up data
 SHUTDOWN ends all processes running on the system
 XCOPY Copies directories, subdirectories, and files
-### How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
-MKDIR a
-CD a
-MKDIR b
-CD b
-MKDIR c
-### What command would you use to verify the creation of the nested directories?
-dir
-### What command did you use?
-cls
-### What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
-cls
-### What is the last command?
-dir
 
-## 11.4.2.7 Lab - File System Commands - not done
-### What is the current directory?
-Users/thordur
-### Which folder are you in now?
-thordur\Desktop\Folder 1>
-### What command or commands did you use to create the nested folders?
-MKDIR
-### After issuing the cd .. command, what is your directory now?
-Users/thordur/Desktop
-### What would be the current directory if you issue this command at
-C:\Users\ITEUser\ITEfolder3
-### What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
-del doc2*
-### What command would you use to delete all the files in the directory? Use the command to remove the files.
-rm -r inside the directorie
-### What option allows you to copy all the files and directories, including the empty directories?
-xcopy
-### What are the advantages of using CLI vs. GUI?
-Faster and more accurate and you only have to use your keyboard and it takes less memory
+How would you create these folders C:\Users\ITEUser\a\b\c if your current directory is C:\Users\ITEUser?
 
-## 11.4.3.2 Lab - Disk CLI Commands
-### What is the option to fix errors on the drive?
- chkdsk/F
-### What is the option to force the volume to dismount first if necessary?
-chkdsk/X
-### What is the option to locate bad sectors and recover readable information?
-chkdsk/R
-### What happened? Explain.
-it test the disk seeing the space and security and other things
-### What is the file system of the drive?
-NTFS
-### Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
-nothing
-### What option is used to determine the maximum number of bytes that the volume can be shrink by?
+  - MKDIR a > CD a > MKDIR b > CD b > MKDIR c
+
+What command would you use to verify the creation of the nested directories?
+
+  - dir
+
+What command did you use?
+
+  - cls
+
+What is the last command that you have used? Press Esc on the keyboard to exit the dialog box.
+
+  - cls
+
+What is the last command?
+
+  - dir
+
+11.4.2.7
+
+What is the current directory?
+
+  - Users/HeiarB
+
+Which folder are you in now?
+
+  - HeiarB\Desktop\Folder 1>
+
+What command or commands did you use to create the nested folders?
+
+  - MKDIR
+
+after issuing the cd .. command, what is your directory now?
+
+  - Users/HeiarB/Desktop
+
+What would be the current directory if you issue this command at
+
+  - C:\Users\ITEUser\ITEfolder3
+
+What single command would you use to delete all the files with doc2 in the filename? Use the command to remove the files with doc2 in the filename.
+
+  - del doc2*
+
+What command would you use to delete all the files in the directory? Use the command to remove the files.
+
+  - rm -r inside the directorie
+
+What option allows you to copy all the files and directories, including the empty directories?
+
+  - xcopy
+
+What are the advantages of using CLI vs. GUI?
+
+  - Faster and more accurate and you only have to use your keyboard and it takes less memory
+
+11.4.3.2 Lab 
+
+What is the option to fix errors on the drive?
+
+   - chkdsk/F
+
+What is the option to force the volume to dismount first if necessary?
+
+  - chkdsk/X
+
+What is the option to locate bad sectors and recover readable information?
+
+  - chkdsk/R
+
+What happened? Explain.
+
+  - it test the disk seeing the space and security and other things
+
+What is the file system of the drive?
+
+  - NTFS
+
+Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
+
+  - nothing
+
+What option is used to determine the maximum number of bytes that the volume can be shrink by?
 
 
-## 11.4.4.2 Lab - Task and System CLI Commands
-### What command would you use to display the results of tasklist one page at a time?
-takslist
-### What is the option to list the modules that are associated with a task?
-tasklist/FI
-### What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+11.4.4.2 Lab
+
+What command would you use to display the results of tasklist one page at a time?
+
+  - takslist
+
+What is the option to list the modules that are associated with a task?
+
+  - tasklist/FI
+
+What command would you use if you want to find all the tasks that use the module oleaut32.dll? List a few tasks that uses oleaut32.dll.
+
 tasklist/M oleaut32.dll
 lsass.exe                      608 OLEAUT32.dll
 svchost.exe                    700 OLEAUT32.dll
 svchost.exe                    852 OLEAUT32.dll
-###What command would you use to find out all the tasks that are associated with your username?
-tasklist/U
-### What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
-### What would you add to the command so you can view the output one page at a time?
-dir/p
-### Enter the command to log off your computer. Record the command below.
-shutdown -r
-### Record the command below. What warning message did you see?
-it will shutdown in 1 min
-### What command would you use to abort the shutdown?
-shutdown -a
 
-## 11.4.5.3 Lab - Other Useful Commands, sleppa step 2 í part 2
-### When does the password expire?
-every 6 months
+What command would you use to find out all the tasks that are associated with your username?
+
+  - tasklist/U
+
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+
+
+What would you add to the command so you can view the output one page at a time?
+
+  - dir/p
+
+Enter the command to log off your computer. Record the command below.
+
+  - shutdown -r
+
+Record the command below. What warning message did you see?
+
+  - it will shutdown in 1 min
+
+What command would you use to abort the shutdown?
+
+  - shutdown -a
+
+11.4.5.3
+
+When does the password expire?
+
+  - every 6 months
